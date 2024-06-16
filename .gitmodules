@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/topipa/topipa.r-universe.dev
 	branch = HEAD
+[submodule "iwmm"]
+	path = iwmm
+	url = https://github.com/topipa/iwmm
